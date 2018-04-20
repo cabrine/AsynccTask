@@ -1,0 +1,9 @@
+<resources>
+
+        <string name="app_name">Async Task Example</string>
+        <string name="appHeader">Background Task</string>
+        <string name="backgroundTaskCompleted">Background Task Completed</string>
+        <string name="progressMessage">Background Task Operating</string>
+        <string name="mainThreadRunning">Main Thread Running</string>
+    </resources>
+
